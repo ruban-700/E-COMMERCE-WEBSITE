@@ -1,0 +1,6 @@
+{
+  "name": "Buzz by BeePri — Handmade E-commerce Store",
+  "description": "Small Things, Made with Love. Handcrafted keychains, decorative flower pots, crochet crafts, and personalized gifts made in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
